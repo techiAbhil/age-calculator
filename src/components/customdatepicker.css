@@ -1,0 +1,31 @@
+.form-group .react-date-picker {
+    width: 90%;
+    height:3rem;
+}
+
+.form-group .react-date-picker__wrapper {
+    border:none;
+    border-bottom: 2px solid #dc7da2;
+}
+
+.form-group .react-date-picker__inputGroup__input {
+    background-color: #fff;
+    color: #a4446a;
+    padding-left: 2px;
+}
+
+.form-group .react-date-picker__inputGroup__divider {
+    color: #000;
+}
+
+.form-group .react-date-picker__inputGroup {
+    background-color: #fff;
+}
+
+.form-group .react-date-picker__button:enabled {
+    background-color: #fff;
+}
+
+.form-group .react-date-picker__inputGroup__input:invalid {
+    background: #fff;
+} 
